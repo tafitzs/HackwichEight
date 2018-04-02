@@ -12,6 +12,7 @@
 		7F0CD0F82072BEB5005F6174 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F0CD0F62072BEB5005F6174 /* Main.storyboard */; };
 		7F0CD0FA2072BEB5005F6174 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F0CD0F92072BEB5005F6174 /* Assets.xcassets */; };
 		7F0CD0FD2072BEB5005F6174 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F0CD0FB2072BEB5005F6174 /* LaunchScreen.storyboard */; };
+		7F9EE1EC2072C4040099E2B6 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9EE1EB2072C4040099E2B6 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7F0CD0F92072BEB5005F6174 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F0CD0FC2072BEB5005F6174 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F0CD0FE2072BEB5005F6174 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F9EE1EB2072C4040099E2B6 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7F0CD0F22072BEB4005F6174 /* AppDelegate.swift */,
 				7F0CD0F42072BEB4005F6174 /* ViewController.swift */,
 				7F0CD0F62072BEB5005F6174 /* Main.storyboard */,
+				7F9EE1EB2072C4040099E2B6 /* Restaurant.swift */,
 				7F0CD0F92072BEB5005F6174 /* Assets.xcassets */,
 				7F0CD0FB2072BEB5005F6174 /* LaunchScreen.storyboard */,
 				7F0CD0FE2072BEB5005F6174 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				7F0CD0F52072BEB4005F6174 /* ViewController.swift in Sources */,
 				7F0CD0F32072BEB4005F6174 /* AppDelegate.swift in Sources */,
+				7F9EE1EC2072C4040099E2B6 /* Restaurant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
